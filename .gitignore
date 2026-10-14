@@ -1,0 +1,15 @@
+# Node (only used for tools/ and tests/)
+node_modules/
+npm-debug.log*
+*.log
+coverage/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Operating systems
+.DS_Store
+Thumbs.db
+desktop.ini
